@@ -18,13 +18,13 @@ Assignment from Spatic company which aims to Maximize revenue or profit share by
 2. Output should be a csv file with all the entries which satisfy given criteria of similarity marked as True / 1 in a separate column named is_similar  
 3. Submission files both python program and output csv file should be uploaded to a public github repository   
 
-# [Instructions Link : ](https://docs.google.com/document/d/1hGM2jMunx5PVx9aZxgLYo7MZHqo2vfCUiNbioDNrWVA/edit)  
+## [Instructions Link : ](https://docs.google.com/document/d/1hGM2jMunx5PVx9aZxgLYo7MZHqo2vfCUiNbioDNrWVA/edit)  
 * Link : https://docs.google.com/document/d/1hGM2jMunx5PVx9aZxgLYo7MZHqo2vfCUiNbioDNrWVA/edit
 
-# [Input Dataset Link : ](https://drive.google.com/file/d/1fcfmdshOYn0A_X6D7hW49ioSL8VhYQby/view?usp=sharing)  
+## [Input Dataset Link : ](https://drive.google.com/file/d/1fcfmdshOYn0A_X6D7hW49ioSL8VhYQby/view?usp=sharing)  
 * Link : https://drive.google.com/file/d/1fcfmdshOYn0A_X6D7hW49ioSL8VhYQby/view?usp=sharing
 
-# [Submission Link : ](https://docs.google.com/forms/d/e/1FAIpQLSepDwePgz0f00tIOampXREQ4cnUpCOlYHiIwOp3FI2UgZuY5Q/viewform)  
+## [Submission Link : ](https://docs.google.com/forms/d/e/1FAIpQLSepDwePgz0f00tIOampXREQ4cnUpCOlYHiIwOp3FI2UgZuY5Q/viewform)  
 * Link : https://docs.google.com/forms/d/e/1FAIpQLSepDwePgz0f00tIOampXREQ4cnUpCOlYHiIwOp3FI2UgZuY5Q/viewform
 
 **Sample Input data and Output data**  
