@@ -1,5 +1,5 @@
 # [Spatic](https://www.gospatic.com/)
-Assignment from Spatic company which aims to Maximize revenue or profit share by leveraging location intelligence, geospatial and hyperlocal analytics, and AI/ML.
+A Problem statement from Spatic company which aims to Maximize revenue or profit share by leveraging location intelligence, geospatial and hyperlocal analytics, and AI/ML.
 
 ## Assignment for Python Developer
 * You are given a dataset which consists of entries with latitude, longitude, and name (link to the dataset file is given below along with some helpful materials).  Your task is to write a Python program that will identify entries which are within 200 meters of each other and have similar names i.e. strings that are similar, but not necessarily same
