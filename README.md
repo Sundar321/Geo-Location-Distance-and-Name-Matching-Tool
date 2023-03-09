@@ -1,4 +1,4 @@
-# [GeoLocation Distance and Name Matching Tool](https://www.gospatic.com/)
+# [Geo Location Distance and Name Matching Tool](https://www.gospatic.com/)
 A Problem statement from Spatic company which aims to Maximize revenue or profit share by leveraging location intelligence, geospatial and hyperlocal analytics, and AI/ML.
 
 ## Problem statement
