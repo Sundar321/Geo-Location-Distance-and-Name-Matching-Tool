@@ -1,5 +1,6 @@
 # [Geo Location Distance and Name Matching Tool](https://www.gospatic.com/)
 A Problem statement from Spatic company which aims to Maximize revenue or profit share by leveraging location intelligence, geospatial and hyperlocal analytics, and AI/ML.
+The "Geospatial Clustering and Similarity Analysis for Location Names" project aims to develop a Python program that processes a dataset containing entries with latitude, longitude, and names, and identifies entries that are within 200 meters of each other while having similar names. The program will leverage geospatial clustering techniques and string similarity algorithms to achieve this goal. This project will be valuable for location-based services, urban planning, and business analysis that require identifying nearby locations with similar names.
 
 ## Problem statement
 * You are given a dataset which consists of entries with latitude, longitude, and name (link to the dataset file is given below along with some helpful materials).  Your task is to write a Python program that will identify entries which are within 200 meters of each other and have similar names i.e. strings that are similar, but not necessarily same
