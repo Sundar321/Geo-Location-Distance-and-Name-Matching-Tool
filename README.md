@@ -15,6 +15,18 @@ The "Geospatial Clustering and Similarity Analysis for Location Names" project a
 1. Similar points should be within 200 meters distance from each other 
 2. Maximum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other should be less than 5  
 
+## Screenshots
+1. **Homepage**  
+
+![image](https://github.com/Sundar321/Geo-Location-Distance-and-Name-Matching-Tool/blob/main/Images/Red%20minimalist%20location%20logo.png)
+
+2. **Menu Section**  
+
+
+![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/menu%20Section.png)
+
+3. **Video & Delivery**  
+
 ## Here are the requirements for the solution:
 1. The program should be written in Python and use appropriate data structures to store the dataset.  
 2. Output should be a csv file with all the entries which satisfy given criteria of similarity marked as True / 1 in a separate column named is_similar  
@@ -25,7 +37,7 @@ The "Geospatial Clustering and Similarity Analysis for Location Names" project a
 
 
 **Sample Input data and Output data**  
-![image](https://github.com/Sundar321/Spatic-/blob/main/sample%20input%20data%20and%20output%20data.png)
+![image](https://github.com/Sundar321/Geo-Location-Distance-and-Name-Matching-Tool/blob/main/Images/sample%20input%20data%20and%20output%20data.png)
 
 
 ## My Approach for solving  
