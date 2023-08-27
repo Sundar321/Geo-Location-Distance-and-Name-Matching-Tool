@@ -16,11 +16,11 @@ The "Geospatial Clustering and Similarity Analysis for Location Names" project a
 2. Maximum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other should be less than 5  
 
 ## Screenshots
-1. **Homepage**  
+1. **Location overview**  
 
 ![image](https://github.com/Sundar321/Geo-Location-Distance-and-Name-Matching-Tool/blob/main/Images/Red%20minimalist%20location%20logo.png)
 
-3. **Video & Delivery**  
+ 
 
 ## Here are the requirements for the solution:
 1. The program should be written in Python and use appropriate data structures to store the dataset.  
