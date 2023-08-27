@@ -20,11 +20,6 @@ The "Geospatial Clustering and Similarity Analysis for Location Names" project a
 
 ![image](https://github.com/Sundar321/Geo-Location-Distance-and-Name-Matching-Tool/blob/main/Images/Red%20minimalist%20location%20logo.png)
 
-2. **Menu Section**  
-
-
-![image](https://github.com/Sundar321/Restaurant-Website/blob/main/Screenshots/menu%20Section.png)
-
 3. **Video & Delivery**  
 
 ## Here are the requirements for the solution:
